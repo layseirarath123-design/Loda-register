@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Register with SA-066</title>
+</head>
+<body>
+  <h2>Register with Salesman SA-066</h2>
+  <p>Click the button below to open the registration page. After it opens, select <strong>SA-066</strong> as the salesman.</p>
+  
+  <button onclick="window.open('https://wap.loda.com.kh/register1', '_blank'); alert('In the registration page, make sure to select SA-066 as the salesman.');">
+    Open Registration Page
+  </button>
+</body>
+</html>
